@@ -105,7 +105,13 @@ const allSoloCars = {
       'all': ['hs', 'sm'],
     },
   },
-  'Acura': {
+  //start list
+  'Honda': {
+    'Civic': {
+      'all': ['hs', 'sts', 'sth', 'fsp', 'smf', 'ep'],
+    },
+  },
+   'Acura': {
     'NSX Alex Zanardi Signature Edition': {
       'all': ['as', 'ssm'],
     },
